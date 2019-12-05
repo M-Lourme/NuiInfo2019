@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'NuitInfo2019.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'nuitinfo2',
-        'USER': 'mat',
-        'PASSWORD': 'azerty',
+        'NAME': 'projet',
+        'USER': 'utilisateur',
+        'PASSWORD': 'pass',
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -123,3 +123,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
+STATICFILES_DIRS = (
+os.path.join(BASE_DIR, 'static'),
+)
