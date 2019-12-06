@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c618faad-fdf2-4187-9f27-cf9bddf921e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/asterios/templates/asterios/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/asterios/templates/asterios/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/nos_img/nombre_9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NuitInfo2019/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/NuitInfo2019/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asterios/templates/asterios/aide_sociale.html" beforeDir="false" afterPath="$PROJECT_DIR$/asterios/templates/asterios/aide_sociale.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asterios/templates/asterios/baisse_apl.html" beforeDir="false" afterPath="$PROJECT_DIR$/asterios/templates/asterios/baisse_apl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asterios/templates/asterios/conditions_vie.html" beforeDir="false" afterPath="$PROJECT_DIR$/asterios/templates/asterios/conditions_vie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asterios/templates/asterios/difficultes.html" beforeDir="false" afterPath="$PROJECT_DIR$/asterios/templates/asterios/difficultes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asterios/templates/asterios/precarite.html" beforeDir="false" afterPath="$PROJECT_DIR$/asterios/templates/asterios/precarite.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,78 +32,71 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NuitInfo2019/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NuitInfo2019/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="103" column="6" lean-forward="true" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
+            <state relative-caret-position="-1297">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/conditions_vie.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="142" column="85" selection-start-line="142" selection-start-column="39" selection-end-line="142" selection-end-column="85" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/aide_sociale.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="124" column="56" lean-forward="true" selection-start-line="124" selection-start-column="56" selection-end-line="124" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="114" column="6" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="68" column="59" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="68" selection-end-column="59" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4277#4283#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4104#4110#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asterios/migrations/0003_test.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NuitInfo2019/urls.py">
+        <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/aides.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#636#668#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="913">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asterios/urls.py">
+        <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/difficultes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NuitInfo2019/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-              <folding>
-                <element signature="e#228#237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asterios/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            <state relative-caret-position="369">
+              <caret line="111" column="298" selection-start-line="111" selection-start-column="298" selection-end-line="111" selection-end-column="298" />
             </state>
           </provider>
         </entry>
@@ -95,8 +104,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/asterios/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="187">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/precarite.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="258" column="12" selection-start-line="258" selection-start-column="12" selection-end-line="258" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/baisse_apl.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
             </state>
           </provider>
         </entry>
@@ -129,114 +156,92 @@
         <option value="$PROJECT_DIR$/asterios/templates/asterios/results.html" />
         <option value="$PROJECT_DIR$/asterios/templates/asterios/testt.html" />
         <option value="$PROJECT_DIR$/asterios/templates/asterios/test.html" />
-        <option value="$PROJECT_DIR$/NuitInfo2019/settings.py" />
         <option value="$PROJECT_DIR$/asterios/models.py" />
         <option value="$PROJECT_DIR$/asterios/templates/asterios/contions_vie.html" />
         <option value="$PROJECT_DIR$/asterios/views.py" />
         <option value="$PROJECT_DIR$/asterios/urls.py" />
-        <option value="$PROJECT_DIR$/asterios/templates/asterios/aide_sociale.html" />
         <option value="$PROJECT_DIR$/asterios/templates/asterios/aides.html" />
-        <option value="$PROJECT_DIR$/asterios/templates/asterios/baisse_apl.html" />
-        <option value="$PROJECT_DIR$/asterios/templates/asterios/conditions_vie.html" />
-        <option value="$PROJECT_DIR$/asterios/templates/asterios/difficultes.html" />
-        <option value="$PROJECT_DIR$/asterios/templates/asterios/precarite.html" />
         <option value="$PROJECT_DIR$/asterios/templates/asterios/index.html" />
+        <option value="$PROJECT_DIR$/NuitInfo2019/settings.py" />
+        <option value="$PROJECT_DIR$/asterios/templates/asterios/404.html" />
+        <option value="$PROJECT_DIR$/asterios/templates/asterios/conditions_vie.html" />
+        <option value="$PROJECT_DIR$/asterios/templates/asterios/baisse_apl.html" />
+        <option value="$PROJECT_DIR$/asterios/templates/asterios/difficultes.html" />
+        <option value="$PROJECT_DIR$/asterios/templates/asterios/aide_sociale.html" />
+        <option value="$PROJECT_DIR$/asterios/templates/asterios/precarite.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1049" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-              <item name="asterios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-              <item name="asterios" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-              <item name="asterios" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-              <item name="asterios" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="asterios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="asterios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="asterios" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="asterios" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="asterios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
+              <item name="NuitInfo2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NuitInfo2019" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="nos_img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NuiInfo2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NuiInfo2019" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../snake" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img/nos_img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -246,6 +251,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\NuitInfo2019\static\img\nos_img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -333,7 +343,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46432000" />
+    <option name="totallyTimeSpent" value="56379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,12 +358,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12734585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33097595" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.145686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,7 +482,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NuitInfo2019/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="153">
           <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           <folding>
             <element signature="e#228#237#0" expanded="true" />
@@ -504,17 +514,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NuitInfo2019/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="103" column="6" lean-forward="true" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/asterios/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -525,13 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asterios/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/results.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -539,52 +535,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/aide_sociale.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/aides.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/baisse_apl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/conditions_vie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/difficultes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="114" column="45" selection-start-line="114" selection-start-column="45" selection-end-line="114" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/precarite.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/asterios/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="306">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -597,14 +551,80 @@
     <entry file="file://$PROJECT_DIR$/static/css/sb-admin-2.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/aides.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="913">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NuitInfo2019/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1297">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/difficultes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="111" column="298" selection-start-line="111" selection-start-column="298" selection-end-line="111" selection-end-column="298" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="114" column="6" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+        <state relative-caret-position="136">
+          <caret line="68" column="59" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="68" selection-end-column="59" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4277#4283#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4104#4110#0#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/baisse_apl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/aide_sociale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="124" column="56" lean-forward="true" selection-start-line="124" selection-start-column="56" selection-end-line="124" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/conditions_vie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="142" column="85" selection-start-line="142" selection-start-column="39" selection-end-line="142" selection-end-column="85" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/precarite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="258" column="12" selection-start-line="258" selection-start-column="12" selection-end-line="258" selection-end-column="12" />
         </state>
       </provider>
     </entry>

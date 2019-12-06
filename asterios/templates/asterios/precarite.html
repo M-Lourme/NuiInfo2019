@@ -81,11 +81,7 @@
           <span>Les personnes en situation de précarité</span></a>
       </li>
 
-        <li class="nav-item">
-          <a class="nav-link" href="{% url 'yo' %}">
-          <i class="fas fa-fw fa-table"></i>
-          <span>Les personnes en situation de précarité</span></a>
-      </li>
+
 
 
 
@@ -103,7 +99,168 @@
     </ul>
     <!-- End of Sidebar -->
 
+      <div class="container-fluid" >
+      <div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">La précarité étudiante </h1>
   </div>
+      <div class="card-header py-3">
+              <h6 class="m-0 font-weight-bold text-primary">Quelques chiffres pour cela</h6>
+            </div>
+      <div class="card shadow mb-4">
+
+        <p>
+    Les conditions des étudiants précaires peuvent s'illustrer par quelques chiffres saisissant: <br>
+    L'étudiant, y compris ceux qui ne sont pas nécessairement en situation de précarité, est connu pour avoir peu d'argent.
+    En France en moyenne, il dispose d'un revenu de 590 euros par mois. Et malgrés le fait que 46% des étudiants ont une activitée remunérée à coé de leurs études,
+    ils sont <strong>39%</strong> à terminer le mois <strong>à découvert</strong>. <br><br>
+    Ces situations ne sont pas dues a une mauvaise gestion ou a des folies dépensières de la part de ces jeunes. La grande majorité étant quasi contrainte de rogner sur les dépenses les plus indispensables.<br>
+    En effet, 83% d'entre eux déclare faire <q>très attention</q> au prix de la nourriture et près de <strong>46%</strong> n'ont <strong>pas accès à une alimentation équilibré</strong> à chaque repas. 13,5% d'entre eux ont même déjà renoncé à des soins medicaux faute de moyens, un chiffre en constante augmentation.  <br>
+    De telles situations ont plusieurs justifications:
+    <u1>
+        <li>Le manque de soutien du milieu familial: 30% des étudiants ne recoivent aucune aide de la part de leur famille.</li>
+        <li>Les coûts importants de la rentrée étudiante qui se sont élevé à 2285,26€ en 2019</li>
+        <li>Les frais inhérent à des études comme les différentes factures et loyers qui peuvent grimper jusqu'à plus de 600€/mois dans les grandes villes.</li>
+        <li>Le manque de connaissance des étudiants quant aux aides dont ils peuvent bénéficier.</li>
+    </u1>
+
+    <br>Ces différentes difficultés mènent à des situations parfois extrèmes, 1 étudiants sur 5 aurait déjà eu des pensées suicidaires et de malheureux exemple dans l'actualités nous rappelle à tous que laa précarité étudiante est un sujet majeur qui doit être traité.
+</p>
+      </div>
+
+
+
+  <p>Quel est le % d'étudiants précaires ?</p>
+
+<img id="EnigmeNombreDiz" src="{% static  'img/nos_img/nombre_0.gif'%}" width="100" height="180">
+<img id="EnigmeNombre" src="{% static  'img/nos_img/nombre_0.gif'%}" width="100" height="180">
+
+<p>
+<button type="button" onclick="plus()">Plus</button>
+<button type="button" onclick="moins()">Moins</button>
+<button type="button" onclick="valider()">Valider</button>
+</p>
+
+<script type="text/javascript">
+
+let unite=0;
+let diz=0;
+
+function lightdiz(diz) {
+  var picdiz;
+  if (diz == 0) {
+    picdiz = "{% static  'img/nos_img/nombre_0.gif'%}";
+  }
+  else if (diz == 1){
+  	picdiz = "{% static  'img/nos_img/nombre_1.gif'%}";
+  }
+  else if (diz == 2){
+  	picdiz = "{% static  'img/nos_img/nombre_2.gif'%}";
+  }
+  else if (diz == 3){
+  	picdiz = "{% static  'img/nos_img/nombre_3.gif'%}";
+  }
+  else if (diz == 4){
+  	picdiz = "{% static  'img/nos_img/nombre_4.gif'%}";
+  }
+  else if (diz == 5){
+  	picdiz = "{% static  'img/nos_img/nombre_5.gif'%}";
+  }
+  else if (diz == 6){
+  	picdiz = "{% static  'img/nos_img/nombre_6.gif'%}";
+  }
+  else if (diz == 7){
+  	picdiz = "{% static  'img/nos_img/nombre_7.gif'%}";
+  }
+  else if (diz == 8){
+  	picdiz = "{% static  'img/nos_img/nombre_8.gif'%}";
+  }
+  else {
+    picdiz = "{% static  'img/nos_img/nombre_9.gif'%}";
+  }
+  document.getElementById("EnigmeNombreDiz").src = picdiz;
+}
+
+function light(unite) {
+  var pic;
+  if (unite == 0) {
+    pic = "{% static  'img/nos_img/nombre_0.gif'%}";
+  }
+  else if (unite == 1){
+  	pic = "{% static  'img/nos_img/nombre_1.gif'%}";
+  }
+  else if (unite == 2){
+  	pic = "{% static  'img/nos_img/nombre_2.gif'%}";
+  }
+  else if (unite == 3){
+  	pic = "{% static  'img/nos_img/nombre_3.gif'%}";
+  }
+  else if (unite == 4){
+  	pic ="{% static  'img/nos_img/nombre_4.gif'%}";
+  }
+  else if (unite == 5){
+  	pic = "{% static  'img/nos_img/nombre_5.gif'%}";
+  }
+  else if (unite == 6){
+  	pic = "{% static  'img/nos_img/nombre_6.gif'%}";
+  }
+  else if (unite == 7){
+  	pic = "{% static  'img/nos_img/nombre_7.gif'%}";
+  }
+  else if (unite == 8){
+  	pic = "{% static  'img/nos_img/nombre_8.gif'%}";
+  }
+  else {
+    pic = "{% static  'img/nos_img/nombre_9.gif'%}";
+  }
+  document.getElementById("EnigmeNombre").src = pic;
+}
+
+function plus()
+{
+	if(unite==9 && diz<9){
+		unite=0;
+		diz=diz+1;
+		lightdiz(diz);
+		light(unite);
+	}
+	else if(unite<9){
+		unite=unite+1;
+		light(unite);
+	}
+}
+
+function moins()
+{
+	if(unite==0 && diz>0){
+		unite=9;
+		diz=diz-1;
+		lightdiz(diz);
+		light(unite);
+	}
+	else if(unite>0){
+		unite=unite-1;
+		light(unite);
+	}
+}
+
+function valider()
+{
+	if(unite==9 && diz==1)
+	{
+		alert("Vous avez réussi !");
+	}
+	else
+	{
+		alert("Réessayez !");
+	}
+}
+
+</script>
+      </div>
+  </div>
+</body>
+
+</html>
 
 
   <!-- Bootstrap core JavaScript-->

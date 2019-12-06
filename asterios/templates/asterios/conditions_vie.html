@@ -97,7 +97,87 @@
 
     </ul>
     <!-- End of Sidebar -->
+<script>alert("Cliquez sur les images représentant les conditions de vie d'un étudiant");</script>
 
+<table align="right">
+  <tr>
+    <td><button> <img id="case1" src="{% static  'img/nos_img/captcha_vacances.jpg'%}" alt="{% static  'img/nos_img/captcha_vacances.jpg'%}" height="120"  width="120" title="Vacances"
+            onclick="window.location.reload(false);">
+            </button> </td>
+    <td><button> <img id="case2" src="{% static  'img/nos_img/captcha_boucherie.jpg'%}" alt="{% static  'img/nos_img/captcha_boucherie.jpg'%}" height="120"  width="120" title="Viande"
+            onclick="window.location.reload(false);">
+            </button></td>
+    <td><button> <img id="case3" src="{% static  'img/nos_img/captcha_BU.jpg'%}" alt="{% static  'img/nos_img/captcha_BU.jpg'%}" height="120"  width="120" title="BU"
+            onclick="document.getElementById('case3').src= '/static/img/nos_img/bon.jpg'; compter();">
+            </button></td>
+  </tr>
+  <tr>
+    <td><button> <img id="case4" src="{% static  'img/nos_img/captcha_caf.png'%}" alt="{% static  'img/nos_img/captcha_caf.png'%}" height="120"  width="120" title="CAF"
+            onclick="document.getElementById('case4').src=   '/static/img/nos_img/bon.jpg';compter();">
+            </button></td>
+    <td><button> <img id="case5" src="{% static  'img/nos_img/captcha_chambrecrous.jpg'%}" alt="{% static  'img/nos_img/captcha_chambrecrous.jpg'%}" height="120"  width="120" title="Logement étudiant"
+            onclick="document.getElementById('case5').src=  '/static/img/nos_img/bon.jpg';compter();">
+            </button></td>
+    <td><button> <img id="case6" src="{% static  'img/nos_img/captcha_echecscolaire.jpg'%}" alt="{% static  'img/nos_img/captcha_echecscolaire.jpg'%}" height="120"  width="120" title="Décrochage"
+            onclick="document.getElementById('case6').src= '/static/img/nos_img/bon.jpg';compter();">
+            </button></td>
+  </tr>
+  <tr>
+    <td><button> <img id="case7" src="{% static  'img/nos_img/captcha_epicerie.png'%}" alt="{% static  'img/nos_img/captcha_epicerie.png'%}" height="120"  width="120" title="Epicerie solidaire"
+            onclick="document.getElementById('case7').src='/static/img/nos_img/bon.jpg'; compter();">
+            </button></td>
+    <td><button> <img id="case8" src="{% static  'img/nos_img/captcha_faim.jpg'%}" alt="{% static  'img/nos_img/captcha_faim.jpg'%}" height="120"  width="120" title="Privation alimentaire"
+            onclick="document.getElementById('case8').src='/static/img/nos_img/bon.jpg'; compter();">
+            </button></td>
+    <td><button> <img id="case9" src="{% static  'img/nos_img/captcha_soinsmedicaux.jpg'%}" alt="{% static  'img/nos_img/captcha_soinsmedicaux.jpg'%}" height="120"  width="120" title="Soins médicaux"
+            onclick="window.location.reload(false);">
+    </button></td>
+  </tr>
+  <tr>
+    <td><button> <img id="case10" src="{% static  'img/nos_img/captcha_theatre.jpg'%}" alt="{% static  'img/nos_img/captcha_theatre.jpg'%}" height="120"  width="120" title="Sorties culturelles"
+            onclick="window.location.reload(false);">
+            </button></td>
+    <td><button> <img id="case11" src="{% static  'img/nos_img/captcha_jobetudiant.jpg'%}" alt="{% static  'img/nos_img/captcha_jobetudiant.jpg'%}" height="120"  width="120" title="Job étudiants"
+            onclick="document.getElementById('case11').src=  '/static/img/nos_img/bon.jpg'; compter();">
+            </button></td>
+    <td><button> <img id="case12" src="{% static  'img/nos_img/captcha_parents.jpg'%}" alt="{% static  'img/nos_img/captcha_parents.jpg'%}" height="120"  width="120" title="Soutien des parents"
+            onclick="window.location.reload(false);">
+            </button></td>
+  </tr>
+</table>
+
+
+  <div class="container-fluid" style="width: 600px; border: 3px solid #A0A0A0; text-align: center;background: #FFFF00;">
+      <div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Les conditions de vie des étudiants</h1>
+  </div>
+      <div class="card-header py-3">
+              <h6 class="m-0 font-weight-bold text-primary"></h6>
+            </div>
+      <div class="card shadow mb-4">
+
+<p>
+Etudier, c'est renoncer à un potentiel emploi stable dans le présent pour privilégier acquérir des connaissances et des diplômes dans le futur.
+C'est s'assurer un meilleur futur sur le long terme, mais cela représente une perte à court terme pour les étudiants, car au lieu d'étudier
+ils pourraient travailler à temps plein et toucher un revenu pour subvenir à leurs besoins. </p>
+<p>
+Dans beaucoup de cas en effet, la vie étudiante (prix des études, logement, alimentation, hygiène, ...) est couteuse et
+les parents n'ont pas toujours de quoi aider financierement leurs enfants pendant toute la durée de leurs études.
+La situation de précarité est donc malheuresement assez fréquente chez les étudiants, et en général (même si ce n'est pas au même niveau), la plupart
+d'entre eux doivent restreindre leurs dépenses et leur niveau de vie afin d'étudier. </p>
+<p>
+On retrouve un bon nombre d'étudiants logeant dans des studios proches de leurs universités, ce qui leur coute cher en loyer et
+les oblige à faire des sacrifices financiers qui vont se repercuter négativement sur leur niveau de vie vie quotidienne comme
+par exemple une baisse de la qualité et de la diversité de la nourriture qu'ils vont pouvoir acheter.
+D'autres au contraire ne louent pas de nouveau logement mais ont
+un long trajet en transports tous les jours, ce qui les restreint énormement au niveau du temps consacré à leurs études (révisions,
+travaux et de projets, "devoirs-maisons"). </p>
+<p>
+Pour certains étudiants, il est même question d'alterner entre études et travail précaire à mi-temps (caissier, serveur, fast-foods...) afin de financer
+leurs écoles, ce qui ne leur laisse quasiment aucun temps libre et est très fatiguant moralement et physiquement pour eux.
+</p>
+      </div>
+  </div>
   </div>
 
 
@@ -117,7 +197,16 @@
   <!-- Page level custom scripts -->
   <script src="{%  static 'js/demo/chart-area-demo.js' %}"></script>
   <script src="{% static 'js/demo/chart-pie-demo.js' %}"></script>
+<script type="text/javascript">
+      var valideur=0;
 
+function compter(){
+    valideur=valideur+1;
+    if(valideur==7){
+        location.href='/asterios';
+    }
+}
+</script>
 </body>
 
 </html>

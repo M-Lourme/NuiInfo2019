@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '=qig+=llr%+k5*5i0f0l)yv&igz^$u-%#ppbty((roi6xm0f^u'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'NuitInfo2019.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'projet',
-        'USER': 'utilisateur',
-        'PASSWORD': 'pass',
+        'NAME': 'asert',
+        'USER': 'matthi',
+        'PASSWORD': 'azerty',
         'HOST': 'localhost',
         'PORT': '',
     }
