@@ -16,8 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+
 urlpatterns = [
     path('asterios/', include('asterios.urls')),
     path('admin/', admin.site.urls),
 
 ]
+handler404 = 'asterios.views.page_not_found_view'

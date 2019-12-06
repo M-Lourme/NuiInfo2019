@@ -63,3 +63,7 @@ def difficultes(request):
 
 def precarite(request):
     return render(request,'asterios/precarite.html')
+
+
+def page_not_found_view(request):
+    return render(request, 'asterios/404.html')

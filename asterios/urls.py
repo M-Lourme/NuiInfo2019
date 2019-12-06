@@ -16,5 +16,5 @@ urlpatterns = [
     path('conditions_vie/', views.conditions_vie, name='conditions_vie'),
     path('difficultes/', views.difficultes, name='difficultes'),
     path('precarite/', views.precarite, name='precarite'),
-
+    path('404',views.page_not_found_view, name='erreur')
 ]
