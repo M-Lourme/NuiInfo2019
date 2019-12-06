@@ -58,12 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4104#4110#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="110" column="37" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -338,11 +334,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575614298096</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Version  finale">
+      <created>1575614687258</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575614687258</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57978000" />
+    <option name="totallyTimeSpent" value="58611000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,6 +358,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1883378" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -619,12 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/asterios/templates/asterios/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4104#4110#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="110" column="37" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
         </state>
       </provider>
     </entry>
