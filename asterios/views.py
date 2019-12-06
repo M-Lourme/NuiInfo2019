@@ -45,3 +45,21 @@ def vote(request, question_id):
 
 def test(request):
     return render(request,'asterios/test.html')
+
+def aide_sociale(request):
+    return render(request,'asterios/aide_sociale.html')
+
+def aides(request):
+    return render(request,'asterios/aides.html')
+
+def baisse_apl(request):
+    return render(request,'asterios/baisse_apl.html')
+
+def conditions_vie(request):
+    return render(request,'asterios/conditions_vie.html')
+
+def difficultes(request):
+    return render(request,'asterios/difficultes.html')
+
+def precarite(request):
+    return render(request,'asterios/precarite.html')

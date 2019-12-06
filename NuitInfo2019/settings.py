@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'NuitInfo2019.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'projet',
-        'USER': 'utilisateur',
-        'PASSWORD': 'pass',
+        'NAME': 'asert',
+        'USER': 'matthi',
+        'PASSWORD': 'azerty',
         'HOST': 'localhost',
         'PORT': '',
     }

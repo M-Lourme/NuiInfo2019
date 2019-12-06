@@ -10,4 +10,11 @@ urlpatterns = [
     # ex: /polls/5/vote/
     path('<int:question_id>/vote/', views.vote, name='vote'),
     path('test/', views.test, name='test'),
+    path('aide_sociale/', views.aide_sociale, name='aide_sociale'),
+    path('aides/', views.aides, name='aides'),
+    path('baisse_apl/', views.baisse_apl, name='baisse_apl'),
+    path('conditions_vie/', views.conditions_vie, name='conditions_vie'),
+    path('difficultes/', views.difficultes, name='difficultes'),
+    path('precarite/', views.precarite, name='precarite'),
+
 ]
