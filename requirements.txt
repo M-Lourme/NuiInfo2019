@@ -9,7 +9,7 @@ kiwisolver==1.0.1
 matplotlib==3.0.2
 networkx==2.2
 numpy==1.16.1
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.1.1.26
 pandas==0.24.1
 Pillow==6.0.0
 PuLP==1.6.9
